@@ -185,6 +185,7 @@ class PearVC: UIViewController {
     
     
     @IBAction func restartTapped(_ sender: Any) {
+        
         trueAns = 0
         curQIndex = 0
         resultViewPear.isHidden = true
